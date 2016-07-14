@@ -1,0 +1,7 @@
+{
+    "name":"conf.json",
+    "description":"оч простой джсон файл для теста require ф-ионала",
+    "webRoot":"C:\\_Tilli\\NodeJS_Playground",
+    "version":"1.0.0.5",
+    "count":13
+}
